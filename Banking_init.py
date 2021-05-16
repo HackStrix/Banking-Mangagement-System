@@ -2,7 +2,7 @@
 
 
 import pymysql    
-db=pymysql.connect(host="localhost",user="strix",password="Netflix_101")
+db=pymysql.connect(host="localhost",user="strix",password="Netflix_101") # EDIT THIS  !!!
 mycur=db.cursor() 
 try:
     mycur.execute("create database banking")
