@@ -37,3 +37,8 @@ pip3 install art
 ## mysql user setup
 
 Setup username and password for MYSQL in python init file. 
+
+
+## Screenshots
+
+![ss](/images/abc(3).png)
