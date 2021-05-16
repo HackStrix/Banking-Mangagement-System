@@ -41,4 +41,6 @@ Setup username and password for MYSQL in python init file.
 
 ## Screenshots
 
-![ss](/images/abc(3).png)
+![ss](/images/abc (3).png)
+
+
